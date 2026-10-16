@@ -1,0 +1,9 @@
+[
+  { "id": "run-100k", "title": "이번 달 달리기 100km", "icon": "🏃", "activityType": "run", "metric": "distance", "target": 100000 },
+  { "id": "run-12", "title": "이번 달 12번 달리기", "icon": "📅", "activityType": "run", "metric": "count", "target": 12 },
+  { "id": "walk-300k-steps", "title": "이번 달 30만 보", "icon": "👣", "activityType": "walk", "metric": "steps", "target": 300000 },
+  { "id": "walk-20h", "title": "이번 달 산책 20시간", "icon": "🌳", "activityType": "walk", "metric": "duration", "target": 72000 },
+  { "id": "ride-500k", "title": "이번 달 라이딩 500km", "icon": "🚴", "activityType": "ride", "metric": "distance", "target": 500000 },
+  { "id": "ride-climb-3000", "title": "이번 달 상승 고도 3000m", "icon": "⛰️", "activityType": "ride", "metric": "elevation", "target": 3000 },
+  { "id": "any-20", "title": "이번 달 활동 20회", "icon": "⭐", "activityType": null, "metric": "count", "target": 20 }
+]

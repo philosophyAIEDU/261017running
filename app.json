@@ -1,0 +1,123 @@
+{
+  "expo": {
+    "name": "달리기·산책·자전거",
+    "slug": "run-walk-ride",
+    "scheme": "runwalkride",
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F2600C"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.example.runwalkride",
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "달리기·산책·자전거 경로와 거리를 기록하기 위해 위치 정보를 사용합니다. 위치 정보는 기기에만 저장됩니다.",
+        "NSLocationAlwaysAndWhenInUseUsageDescription": "화면이 꺼지거나 다른 앱을 사용하는 중에도 활동 기록을 계속하기 위해 백그라운드 위치 정보를 사용합니다. 활동 중이 아닐 때는 위치를 수집하지 않습니다.",
+        "NSMotionUsageDescription": "걸음 수와 케이던스를 측정하기 위해 동작 및 피트니스 정보를 사용합니다.",
+        "NSBluetoothAlwaysUsageDescription": "심박 벨트와 자전거 속도·케이던스 센서를 연결하기 위해 블루투스를 사용합니다.",
+        "NSHealthShareUsageDescription": "건강 앱과 운동 기록을 연동합니다.",
+        "NSHealthUpdateUsageDescription": "완료한 운동을 건강 앱에 저장합니다(설정에서 끌 수 있음).",
+        "UIBackgroundModes": [
+          "location",
+          "audio",
+          "bluetooth-central"
+        ]
+      }
+    },
+    "android": {
+      "package": "com.example.runwalkride",
+      "adaptiveIcon": {
+        "backgroundColor": "#F2600C",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "permissions": [
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_BACKGROUND_LOCATION",
+        "FOREGROUND_SERVICE",
+        "FOREGROUND_SERVICE_LOCATION",
+        "ACTIVITY_RECOGNITION",
+        "BLUETOOTH_SCAN",
+        "BLUETOOTH_CONNECT",
+        "VIBRATE",
+        "POST_NOTIFICATIONS",
+        "android.permission.health.WRITE_EXERCISE",
+        "android.permission.health.WRITE_DISTANCE",
+        "android.permission.health.WRITE_TOTAL_CALORIES_BURNED",
+        "android.permission.health.WRITE_STEPS"
+      ],
+      "predictiveBackGestureEnabled": false
+    },
+    "plugins": [
+      "expo-router",
+      "expo-sqlite",
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "minSdkVersion": 26
+          }
+        }
+      ],
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "화면이 꺼져도 활동 기록을 계속하기 위해 백그라운드 위치 정보를 사용합니다.",
+          "isAndroidBackgroundLocationEnabled": true,
+          "isAndroidForegroundServiceEnabled": true,
+          "isIosBackgroundLocationEnabled": true
+        }
+      ],
+      [
+        "expo-sensors",
+        {
+          "motionPermission": "걸음 수와 케이던스를 측정하기 위해 동작 정보를 사용합니다."
+        }
+      ],
+      [
+        "expo-notifications",
+        {
+          "color": "#F2600C"
+        }
+      ],
+      [
+        "react-native-maps",
+        {
+          "androidGoogleMapsApiKey": "YOUR_ANDROID_GOOGLE_MAPS_API_KEY"
+        }
+      ],
+      [
+        "react-native-ble-plx",
+        {
+          "isBackgroundEnabled": true,
+          "modes": [
+            "central"
+          ],
+          "bluetoothAlwaysPermission": "심박 벨트와 자전거 센서를 연결하기 위해 블루투스를 사용합니다."
+        }
+      ],
+      [
+        "react-native-health",
+        {
+          "isClinicalDataEnabled": false,
+          "healthSharePermission": "건강 앱과 운동 기록을 연동합니다.",
+          "healthUpdatePermission": "완료한 운동을 건강 앱에 저장합니다."
+        }
+      ],
+      "expo-health-connect",
+      "expo-asset",
+      "expo-audio",
+      "expo-screen-orientation"
+    ],
+    "experiments": {
+      "typedRoutes": false
+    }
+  }
+}

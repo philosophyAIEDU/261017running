@@ -1,0 +1,25 @@
+[
+  { "id": "first-activity", "name": "첫 걸음", "description": "첫 활동을 기록했어요", "icon": "🎉", "activityType": null, "condition": { "kind": "activityCount", "min": 1 } },
+  { "id": "early-bird", "name": "새벽형 인간", "description": "오전 6시 이전에 활동을 시작했어요", "icon": "🌅", "activityType": null, "condition": { "kind": "startedBeforeHour", "hour": 6 } },
+  { "id": "streak-4", "name": "4주 연속", "description": "4주 연속으로 매주 활동했어요", "icon": "🔥", "activityType": null, "condition": { "kind": "weeklyStreak", "weeks": 4 } },
+  { "id": "streak-12", "name": "12주 연속", "description": "12주 연속으로 매주 활동했어요", "icon": "🔥", "activityType": null, "condition": { "kind": "weeklyStreak", "weeks": 12 } },
+  { "id": "streak-52", "name": "1년 개근", "description": "52주 연속으로 매주 활동했어요", "icon": "🏆", "activityType": null, "condition": { "kind": "weeklyStreak", "weeks": 52 } },
+  { "id": "all-modes", "name": "트라이 모드", "description": "달리기, 산책, 자전거를 모두 해봤어요", "icon": "🎯", "activityType": null, "condition": { "kind": "allModes" } },
+
+  { "id": "run-first-5k", "name": "첫 5K", "description": "한 번에 5km 이상 달렸어요", "icon": "5️⃣", "activityType": "run", "condition": { "kind": "singleDistance", "meters": 5000 } },
+  { "id": "run-first-10k", "name": "첫 10K", "description": "한 번에 10km 이상 달렸어요", "icon": "🔟", "activityType": "run", "condition": { "kind": "singleDistance", "meters": 10000 } },
+  { "id": "run-first-half", "name": "하프 완주", "description": "하프 마라톤 거리를 완주했어요", "icon": "🥈", "activityType": "run", "condition": { "kind": "singleDistance", "meters": 21097.5 } },
+  { "id": "run-first-full", "name": "풀코스 완주", "description": "풀코스 마라톤 거리를 완주했어요", "icon": "🥇", "activityType": "run", "condition": { "kind": "singleDistance", "meters": 42195 } },
+  { "id": "run-total-100", "name": "달리기 100km", "description": "누적 100km를 달렸어요", "icon": "💯", "activityType": "run", "condition": { "kind": "totalDistance", "meters": 100000 } },
+  { "id": "run-total-500", "name": "달리기 500km", "description": "누적 500km를 달렸어요", "icon": "🚀", "activityType": "run", "condition": { "kind": "totalDistance", "meters": 500000 } },
+  { "id": "run-total-1000", "name": "달리기 1000km", "description": "누적 1000km를 달렸어요", "icon": "🌏", "activityType": "run", "condition": { "kind": "totalDistance", "meters": 1000000 } },
+
+  { "id": "walk-10k-steps", "name": "하루 1만 보", "description": "하루에 1만 보를 걸었어요", "icon": "👟", "activityType": "walk", "condition": { "kind": "dailySteps", "steps": 10000 } },
+  { "id": "walk-20k-steps", "name": "하루 2만 보", "description": "하루에 2만 보를 걸었어요", "icon": "🥾", "activityType": "walk", "condition": { "kind": "dailySteps", "steps": 20000 } },
+  { "id": "walk-1m-steps", "name": "누적 100만 보", "description": "산책으로 누적 100만 보를 걸었어요", "icon": "👣", "activityType": "walk", "condition": { "kind": "totalSteps", "steps": 1000000 } },
+
+  { "id": "ride-first-50", "name": "첫 50km", "description": "한 번에 50km 이상 달렸어요", "icon": "🚲", "activityType": "ride", "condition": { "kind": "singleDistance", "meters": 50000 } },
+  { "id": "ride-first-100", "name": "첫 100km", "description": "한 번에 100km 이상 달렸어요 (그란폰도!)", "icon": "💪", "activityType": "ride", "condition": { "kind": "singleDistance", "meters": 100000 } },
+  { "id": "ride-climb-1000", "name": "누적 상승 1000m", "description": "자전거로 누적 1000m를 올랐어요", "icon": "⛰️", "activityType": "ride", "condition": { "kind": "totalElevation", "meters": 1000 } },
+  { "id": "ride-everest", "name": "에베레스트", "description": "자전거로 누적 8848m를 올랐어요", "icon": "🏔️", "activityType": "ride", "condition": { "kind": "totalElevation", "meters": 8848 } }
+]

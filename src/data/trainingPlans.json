@@ -1,0 +1,3328 @@
+[
+  {
+    "id": "5k-beginner",
+    "title": "5K 입문",
+    "activityType": "run",
+    "icon": "🌱",
+    "level": "입문",
+    "description": "걷기와 달리기를 섞어 8주 만에 5K 완주",
+    "weeks": [
+      {
+        "week": 1,
+        "workouts": [
+          {
+            "id": "5k-w1-d1",
+            "title": "달리기 1분 + 걷기 1.5분 × 8",
+            "description": "5분 빠르게 걷기로 몸을 풀고 시작하세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 300,
+                "workSec": 60,
+                "recoverSec": 90,
+                "repeats": 8,
+                "cooldownSec": 300
+              }
+            }
+          },
+          {
+            "id": "5k-w1-d2",
+            "title": "달리기 1분 + 걷기 1.5분 × 8",
+            "description": "편하게 대화할 수 있는 속도로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 300,
+                "workSec": 60,
+                "recoverSec": 90,
+                "repeats": 8,
+                "cooldownSec": 300
+              }
+            }
+          },
+          {
+            "id": "5k-w1-d3",
+            "title": "달리기 1분 + 걷기 1.5분 × 8",
+            "description": "이번 주 마지막 훈련! 무리하지 마세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 300,
+                "workSec": 60,
+                "recoverSec": 90,
+                "repeats": 8,
+                "cooldownSec": 300
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "workouts": [
+          {
+            "id": "5k-w2-d1",
+            "title": "달리기 1.5분 + 걷기 2분 × 6",
+            "description": "5분 빠르게 걷기로 몸을 풀고 시작하세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 300,
+                "workSec": 90,
+                "recoverSec": 120,
+                "repeats": 6,
+                "cooldownSec": 300
+              }
+            }
+          },
+          {
+            "id": "5k-w2-d2",
+            "title": "달리기 1.5분 + 걷기 2분 × 6",
+            "description": "편하게 대화할 수 있는 속도로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 300,
+                "workSec": 90,
+                "recoverSec": 120,
+                "repeats": 6,
+                "cooldownSec": 300
+              }
+            }
+          },
+          {
+            "id": "5k-w2-d3",
+            "title": "달리기 1.5분 + 걷기 2분 × 6",
+            "description": "이번 주 마지막 훈련! 무리하지 마세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 300,
+                "workSec": 90,
+                "recoverSec": 120,
+                "repeats": 6,
+                "cooldownSec": 300
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "workouts": [
+          {
+            "id": "5k-w3-d1",
+            "title": "달리기 2분 + 걷기 2분 × 6",
+            "description": "5분 빠르게 걷기로 몸을 풀고 시작하세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 300,
+                "workSec": 120,
+                "recoverSec": 120,
+                "repeats": 6,
+                "cooldownSec": 300
+              }
+            }
+          },
+          {
+            "id": "5k-w3-d2",
+            "title": "달리기 2분 + 걷기 2분 × 6",
+            "description": "편하게 대화할 수 있는 속도로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 300,
+                "workSec": 120,
+                "recoverSec": 120,
+                "repeats": 6,
+                "cooldownSec": 300
+              }
+            }
+          },
+          {
+            "id": "5k-w3-d3",
+            "title": "달리기 2분 + 걷기 2분 × 6",
+            "description": "이번 주 마지막 훈련! 무리하지 마세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 300,
+                "workSec": 120,
+                "recoverSec": 120,
+                "repeats": 6,
+                "cooldownSec": 300
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "workouts": [
+          {
+            "id": "5k-w4-d1",
+            "title": "달리기 3분 + 걷기 1.5분 × 5",
+            "description": "5분 빠르게 걷기로 몸을 풀고 시작하세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 300,
+                "workSec": 180,
+                "recoverSec": 90,
+                "repeats": 5,
+                "cooldownSec": 300
+              }
+            }
+          },
+          {
+            "id": "5k-w4-d2",
+            "title": "달리기 3분 + 걷기 1.5분 × 5",
+            "description": "편하게 대화할 수 있는 속도로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 300,
+                "workSec": 180,
+                "recoverSec": 90,
+                "repeats": 5,
+                "cooldownSec": 300
+              }
+            }
+          },
+          {
+            "id": "5k-w4-d3",
+            "title": "달리기 3분 + 걷기 1.5분 × 5",
+            "description": "이번 주 마지막 훈련! 무리하지 마세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 300,
+                "workSec": 180,
+                "recoverSec": 90,
+                "repeats": 5,
+                "cooldownSec": 300
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 5,
+        "workouts": [
+          {
+            "id": "5k-w5-d1",
+            "title": "달리기 5분 + 걷기 2분 × 3",
+            "description": "5분 빠르게 걷기로 몸을 풀고 시작하세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 300,
+                "workSec": 300,
+                "recoverSec": 120,
+                "repeats": 3,
+                "cooldownSec": 300
+              }
+            }
+          },
+          {
+            "id": "5k-w5-d2",
+            "title": "달리기 5분 + 걷기 2분 × 3",
+            "description": "편하게 대화할 수 있는 속도로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 300,
+                "workSec": 300,
+                "recoverSec": 120,
+                "repeats": 3,
+                "cooldownSec": 300
+              }
+            }
+          },
+          {
+            "id": "5k-w5-d3",
+            "title": "달리기 5분 + 걷기 2분 × 3",
+            "description": "이번 주 마지막 훈련! 무리하지 마세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 300,
+                "workSec": 300,
+                "recoverSec": 120,
+                "repeats": 3,
+                "cooldownSec": 300
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 6,
+        "workouts": [
+          {
+            "id": "5k-w6-d1",
+            "title": "달리기 8분 + 걷기 2분 × 2",
+            "description": "5분 빠르게 걷기로 몸을 풀고 시작하세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 300,
+                "workSec": 480,
+                "recoverSec": 120,
+                "repeats": 2,
+                "cooldownSec": 300
+              }
+            }
+          },
+          {
+            "id": "5k-w6-d2",
+            "title": "달리기 8분 + 걷기 2분 × 2",
+            "description": "편하게 대화할 수 있는 속도로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 300,
+                "workSec": 480,
+                "recoverSec": 120,
+                "repeats": 2,
+                "cooldownSec": 300
+              }
+            }
+          },
+          {
+            "id": "5k-w6-d3",
+            "title": "달리기 8분 + 걷기 2분 × 2",
+            "description": "이번 주 마지막 훈련! 무리하지 마세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 300,
+                "workSec": 480,
+                "recoverSec": 120,
+                "repeats": 2,
+                "cooldownSec": 300
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 7,
+        "workouts": [
+          {
+            "id": "5k-w7-d1",
+            "title": "달리기 12분 + 걷기 2분 × 2",
+            "description": "5분 빠르게 걷기로 몸을 풀고 시작하세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 300,
+                "workSec": 720,
+                "recoverSec": 120,
+                "repeats": 2,
+                "cooldownSec": 300
+              }
+            }
+          },
+          {
+            "id": "5k-w7-d2",
+            "title": "달리기 12분 + 걷기 2분 × 2",
+            "description": "편하게 대화할 수 있는 속도로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 300,
+                "workSec": 720,
+                "recoverSec": 120,
+                "repeats": 2,
+                "cooldownSec": 300
+              }
+            }
+          },
+          {
+            "id": "5k-w7-d3",
+            "title": "달리기 12분 + 걷기 2분 × 2",
+            "description": "이번 주 마지막 훈련! 무리하지 마세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 300,
+                "workSec": 720,
+                "recoverSec": 120,
+                "repeats": 2,
+                "cooldownSec": 300
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 8,
+        "workouts": [
+          {
+            "id": "5k-w8-d1",
+            "title": "30분 연속 달리기",
+            "description": "쉬지 않고 30분 달리기에 도전!",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": null,
+                "durationSec": 1800,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "5k-w8-d2",
+            "title": "25분 달리기",
+            "description": "가볍게 회복 달리기",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": null,
+                "durationSec": 1500,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "5k-w8-d3",
+            "title": "5K 달리기",
+            "description": "드디어 5K 완주!",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 5000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "10k",
+    "title": "10K 완주",
+    "activityType": "run",
+    "icon": "🏃",
+    "level": "초급",
+    "description": "8주 동안 주 3회, 10K 완주 목표",
+    "weeks": [
+      {
+        "week": 1,
+        "workouts": [
+          {
+            "id": "10k-w1-d1",
+            "title": "편한 달리기 3km",
+            "description": "대화가 가능한 편한 페이스로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 3000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "10k-w1-d2",
+            "title": "인터벌 3분 × 5",
+            "description": "빠르게 3분, 천천히 2분. 워밍업과 쿨다운 10분씩.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 180,
+                "recoverSec": 120,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "10k-w1-d3",
+            "title": "장거리 5km",
+            "description": "천천히, 꾸준히. 장거리는 속도보다 시간이 중요합니다.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 5000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "workouts": [
+          {
+            "id": "10k-w2-d1",
+            "title": "편한 달리기 3km",
+            "description": "대화가 가능한 편한 페이스로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 3000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "10k-w2-d2",
+            "title": "인터벌 3분 × 5",
+            "description": "빠르게 3분, 천천히 2분. 워밍업과 쿨다운 10분씩.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 180,
+                "recoverSec": 120,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "10k-w2-d3",
+            "title": "장거리 6km",
+            "description": "천천히, 꾸준히. 장거리는 속도보다 시간이 중요합니다.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 6000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "workouts": [
+          {
+            "id": "10k-w3-d1",
+            "title": "편한 달리기 3km",
+            "description": "대화가 가능한 편한 페이스로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 3000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "10k-w3-d2",
+            "title": "인터벌 3분 × 5",
+            "description": "빠르게 3분, 천천히 2분. 워밍업과 쿨다운 10분씩.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 180,
+                "recoverSec": 120,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "10k-w3-d3",
+            "title": "장거리 7km",
+            "description": "천천히, 꾸준히. 장거리는 속도보다 시간이 중요합니다.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 7000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "workouts": [
+          {
+            "id": "10k-w4-d1",
+            "title": "편한 달리기 4km",
+            "description": "대화가 가능한 편한 페이스로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 4000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "10k-w4-d2",
+            "title": "인터벌 3분 × 5",
+            "description": "빠르게 3분, 천천히 2분. 워밍업과 쿨다운 10분씩.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 180,
+                "recoverSec": 120,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "10k-w4-d3",
+            "title": "장거리 8km",
+            "description": "천천히, 꾸준히. 장거리는 속도보다 시간이 중요합니다.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 8000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 5,
+        "workouts": [
+          {
+            "id": "10k-w5-d1",
+            "title": "편한 달리기 4km",
+            "description": "대화가 가능한 편한 페이스로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 4000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "10k-w5-d2",
+            "title": "인터벌 3분 × 5",
+            "description": "빠르게 3분, 천천히 2분. 워밍업과 쿨다운 10분씩.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 180,
+                "recoverSec": 120,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "10k-w5-d3",
+            "title": "장거리 9km",
+            "description": "천천히, 꾸준히. 장거리는 속도보다 시간이 중요합니다.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 9000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 6,
+        "workouts": [
+          {
+            "id": "10k-w6-d1",
+            "title": "편한 달리기 5km",
+            "description": "대화가 가능한 편한 페이스로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 5000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "10k-w6-d2",
+            "title": "인터벌 3분 × 5",
+            "description": "빠르게 3분, 천천히 2분. 워밍업과 쿨다운 10분씩.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 180,
+                "recoverSec": 120,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "10k-w6-d3",
+            "title": "장거리 10km",
+            "description": "천천히, 꾸준히. 장거리는 속도보다 시간이 중요합니다.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 10000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 7,
+        "workouts": [
+          {
+            "id": "10k-w7-d1",
+            "title": "편한 달리기 3km",
+            "description": "대화가 가능한 편한 페이스로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 3000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "10k-w7-d2",
+            "title": "인터벌 3분 × 5",
+            "description": "빠르게 3분, 천천히 2분. 워밍업과 쿨다운 10분씩.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 180,
+                "recoverSec": 120,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "10k-w7-d3",
+            "title": "장거리 7km",
+            "description": "천천히, 꾸준히. 장거리는 속도보다 시간이 중요합니다.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 7000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 8,
+        "workouts": [
+          {
+            "id": "10k-w8-d1",
+            "title": "편한 달리기 5km",
+            "description": "대화가 가능한 편한 페이스로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 5000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "10k-w8-d2",
+            "title": "인터벌 3분 × 5",
+            "description": "빠르게 3분, 천천히 2분. 워밍업과 쿨다운 10분씩.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 180,
+                "recoverSec": 120,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "10k-w8-d3",
+            "title": "10K 레이스!",
+            "description": "그동안의 훈련을 믿고 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 10000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "half",
+    "title": "하프 마라톤",
+    "activityType": "run",
+    "icon": "🥈",
+    "level": "중급",
+    "description": "12주 동안 주 4회, 하프 마라톤 완주",
+    "weeks": [
+      {
+        "week": 1,
+        "workouts": [
+          {
+            "id": "half-w1-d1",
+            "title": "편한 달리기 4km",
+            "description": "대화가 가능한 편한 페이스로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 4000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "half-w1-d2",
+            "title": "인터벌 3분 × 5",
+            "description": "빠르게 3분, 천천히 2분. 워밍업과 쿨다운 10분씩.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 180,
+                "recoverSec": 120,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "half-w1-d3",
+            "title": "템포 달리기 5km",
+            "description": "조금 힘들지만 유지 가능한 페이스로.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 5000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "half-w1-d4",
+            "title": "장거리 8km",
+            "description": "천천히, 꾸준히. 장거리는 속도보다 시간이 중요합니다.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 8000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "workouts": [
+          {
+            "id": "half-w2-d1",
+            "title": "편한 달리기 4km",
+            "description": "대화가 가능한 편한 페이스로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 4000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "half-w2-d2",
+            "title": "인터벌 3분 × 5",
+            "description": "빠르게 3분, 천천히 2분. 워밍업과 쿨다운 10분씩.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 180,
+                "recoverSec": 120,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "half-w2-d3",
+            "title": "템포 달리기 5km",
+            "description": "조금 힘들지만 유지 가능한 페이스로.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 5000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "half-w2-d4",
+            "title": "장거리 9km",
+            "description": "천천히, 꾸준히. 장거리는 속도보다 시간이 중요합니다.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 9000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "workouts": [
+          {
+            "id": "half-w3-d1",
+            "title": "편한 달리기 5km",
+            "description": "대화가 가능한 편한 페이스로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 5000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "half-w3-d2",
+            "title": "인터벌 3분 × 5",
+            "description": "빠르게 3분, 천천히 2분. 워밍업과 쿨다운 10분씩.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 180,
+                "recoverSec": 120,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "half-w3-d3",
+            "title": "템포 달리기 6km",
+            "description": "조금 힘들지만 유지 가능한 페이스로.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 6000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "half-w3-d4",
+            "title": "장거리 10km",
+            "description": "천천히, 꾸준히. 장거리는 속도보다 시간이 중요합니다.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 10000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "workouts": [
+          {
+            "id": "half-w4-d1",
+            "title": "편한 달리기 5km",
+            "description": "대화가 가능한 편한 페이스로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 5000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "half-w4-d2",
+            "title": "인터벌 3분 × 5",
+            "description": "빠르게 3분, 천천히 2분. 워밍업과 쿨다운 10분씩.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 180,
+                "recoverSec": 120,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "half-w4-d3",
+            "title": "템포 달리기 6km",
+            "description": "조금 힘들지만 유지 가능한 페이스로.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 6000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "half-w4-d4",
+            "title": "장거리 12km",
+            "description": "천천히, 꾸준히. 장거리는 속도보다 시간이 중요합니다.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 12000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 5,
+        "workouts": [
+          {
+            "id": "half-w5-d1",
+            "title": "편한 달리기 6km",
+            "description": "대화가 가능한 편한 페이스로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 6000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "half-w5-d2",
+            "title": "인터벌 3분 × 5",
+            "description": "빠르게 3분, 천천히 2분. 워밍업과 쿨다운 10분씩.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 180,
+                "recoverSec": 120,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "half-w5-d3",
+            "title": "템포 달리기 7km",
+            "description": "조금 힘들지만 유지 가능한 페이스로.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 7000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "half-w5-d4",
+            "title": "장거리 13km",
+            "description": "천천히, 꾸준히. 장거리는 속도보다 시간이 중요합니다.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 13000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 6,
+        "workouts": [
+          {
+            "id": "half-w6-d1",
+            "title": "편한 달리기 6km",
+            "description": "대화가 가능한 편한 페이스로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 6000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "half-w6-d2",
+            "title": "인터벌 3분 × 5",
+            "description": "빠르게 3분, 천천히 2분. 워밍업과 쿨다운 10분씩.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 180,
+                "recoverSec": 120,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "half-w6-d3",
+            "title": "템포 달리기 7km",
+            "description": "조금 힘들지만 유지 가능한 페이스로.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 7000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "half-w6-d4",
+            "title": "장거리 14km",
+            "description": "천천히, 꾸준히. 장거리는 속도보다 시간이 중요합니다.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 14000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 7,
+        "workouts": [
+          {
+            "id": "half-w7-d1",
+            "title": "편한 달리기 7km",
+            "description": "대화가 가능한 편한 페이스로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 7000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "half-w7-d2",
+            "title": "인터벌 3분 × 5",
+            "description": "빠르게 3분, 천천히 2분. 워밍업과 쿨다운 10분씩.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 180,
+                "recoverSec": 120,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "half-w7-d3",
+            "title": "템포 달리기 8km",
+            "description": "조금 힘들지만 유지 가능한 페이스로.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 8000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "half-w7-d4",
+            "title": "장거리 15km",
+            "description": "천천히, 꾸준히. 장거리는 속도보다 시간이 중요합니다.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 15000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 8,
+        "workouts": [
+          {
+            "id": "half-w8-d1",
+            "title": "편한 달리기 8km",
+            "description": "대화가 가능한 편한 페이스로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 8000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "half-w8-d2",
+            "title": "인터벌 3분 × 5",
+            "description": "빠르게 3분, 천천히 2분. 워밍업과 쿨다운 10분씩.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 180,
+                "recoverSec": 120,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "half-w8-d3",
+            "title": "템포 달리기 10km",
+            "description": "조금 힘들지만 유지 가능한 페이스로.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 10000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "half-w8-d4",
+            "title": "장거리 17km",
+            "description": "천천히, 꾸준히. 장거리는 속도보다 시간이 중요합니다.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 17000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 9,
+        "workouts": [
+          {
+            "id": "half-w9-d1",
+            "title": "편한 달리기 8km",
+            "description": "대화가 가능한 편한 페이스로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 8000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "half-w9-d2",
+            "title": "인터벌 3분 × 5",
+            "description": "빠르게 3분, 천천히 2분. 워밍업과 쿨다운 10분씩.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 180,
+                "recoverSec": 120,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "half-w9-d3",
+            "title": "템포 달리기 10km",
+            "description": "조금 힘들지만 유지 가능한 페이스로.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 10000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "half-w9-d4",
+            "title": "장거리 18km",
+            "description": "천천히, 꾸준히. 장거리는 속도보다 시간이 중요합니다.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 18000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 10,
+        "workouts": [
+          {
+            "id": "half-w10-d1",
+            "title": "편한 달리기 9km",
+            "description": "대화가 가능한 편한 페이스로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 9000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "half-w10-d2",
+            "title": "인터벌 3분 × 5",
+            "description": "빠르게 3분, 천천히 2분. 워밍업과 쿨다운 10분씩.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 180,
+                "recoverSec": 120,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "half-w10-d3",
+            "title": "템포 달리기 11km",
+            "description": "조금 힘들지만 유지 가능한 페이스로.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 11000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "half-w10-d4",
+            "title": "장거리 19km",
+            "description": "천천히, 꾸준히. 장거리는 속도보다 시간이 중요합니다.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 19000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 11,
+        "workouts": [
+          {
+            "id": "half-w11-d1",
+            "title": "편한 달리기 6km",
+            "description": "대화가 가능한 편한 페이스로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 6000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "half-w11-d2",
+            "title": "인터벌 3분 × 5",
+            "description": "빠르게 3분, 천천히 2분. 워밍업과 쿨다운 10분씩.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 180,
+                "recoverSec": 120,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "half-w11-d3",
+            "title": "템포 달리기 7km",
+            "description": "조금 힘들지만 유지 가능한 페이스로.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 7000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "half-w11-d4",
+            "title": "장거리 13km",
+            "description": "천천히, 꾸준히. 장거리는 속도보다 시간이 중요합니다.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 13000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 12,
+        "workouts": [
+          {
+            "id": "half-w12-d1",
+            "title": "편한 달리기 9km",
+            "description": "대화가 가능한 편한 페이스로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 9000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "half-w12-d2",
+            "title": "인터벌 3분 × 5",
+            "description": "빠르게 3분, 천천히 2분. 워밍업과 쿨다운 10분씩.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 180,
+                "recoverSec": 120,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "half-w12-d3",
+            "title": "템포 달리기 11km",
+            "description": "조금 힘들지만 유지 가능한 페이스로.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 11000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "half-w12-d4",
+            "title": "하프 마라톤 레이스!",
+            "description": "그동안의 훈련을 믿고 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 21100,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "full",
+    "title": "풀코스 마라톤",
+    "activityType": "run",
+    "icon": "🏅",
+    "level": "상급",
+    "description": "16주 동안 주 4회, 풀코스 완주",
+    "weeks": [
+      {
+        "week": 1,
+        "workouts": [
+          {
+            "id": "full-w1-d1",
+            "title": "편한 달리기 5km",
+            "description": "대화가 가능한 편한 페이스로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 5000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "full-w1-d2",
+            "title": "인터벌 3분 × 5",
+            "description": "빠르게 3분, 천천히 2분. 워밍업과 쿨다운 10분씩.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 180,
+                "recoverSec": 120,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "full-w1-d3",
+            "title": "템포 달리기 6km",
+            "description": "조금 힘들지만 유지 가능한 페이스로.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 6000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "full-w1-d4",
+            "title": "장거리 12km",
+            "description": "천천히, 꾸준히. 장거리는 속도보다 시간이 중요합니다.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 12000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "workouts": [
+          {
+            "id": "full-w2-d1",
+            "title": "편한 달리기 6km",
+            "description": "대화가 가능한 편한 페이스로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 6000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "full-w2-d2",
+            "title": "인터벌 3분 × 5",
+            "description": "빠르게 3분, 천천히 2분. 워밍업과 쿨다운 10분씩.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 180,
+                "recoverSec": 120,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "full-w2-d3",
+            "title": "템포 달리기 7km",
+            "description": "조금 힘들지만 유지 가능한 페이스로.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 7000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "full-w2-d4",
+            "title": "장거리 14km",
+            "description": "천천히, 꾸준히. 장거리는 속도보다 시간이 중요합니다.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 14000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "workouts": [
+          {
+            "id": "full-w3-d1",
+            "title": "편한 달리기 7km",
+            "description": "대화가 가능한 편한 페이스로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 7000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "full-w3-d2",
+            "title": "인터벌 3분 × 5",
+            "description": "빠르게 3분, 천천히 2분. 워밍업과 쿨다운 10분씩.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 180,
+                "recoverSec": 120,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "full-w3-d3",
+            "title": "템포 달리기 8km",
+            "description": "조금 힘들지만 유지 가능한 페이스로.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 8000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "full-w3-d4",
+            "title": "장거리 15km",
+            "description": "천천히, 꾸준히. 장거리는 속도보다 시간이 중요합니다.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 15000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "workouts": [
+          {
+            "id": "full-w4-d1",
+            "title": "편한 달리기 8km",
+            "description": "대화가 가능한 편한 페이스로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 8000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "full-w4-d2",
+            "title": "인터벌 3분 × 5",
+            "description": "빠르게 3분, 천천히 2분. 워밍업과 쿨다운 10분씩.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 180,
+                "recoverSec": 120,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "full-w4-d3",
+            "title": "템포 달리기 10km",
+            "description": "조금 힘들지만 유지 가능한 페이스로.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 10000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "full-w4-d4",
+            "title": "장거리 17km",
+            "description": "천천히, 꾸준히. 장거리는 속도보다 시간이 중요합니다.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 17000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 5,
+        "workouts": [
+          {
+            "id": "full-w5-d1",
+            "title": "편한 달리기 8km",
+            "description": "대화가 가능한 편한 페이스로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 8000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "full-w5-d2",
+            "title": "인터벌 3분 × 5",
+            "description": "빠르게 3분, 천천히 2분. 워밍업과 쿨다운 10분씩.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 180,
+                "recoverSec": 120,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "full-w5-d3",
+            "title": "템포 달리기 10km",
+            "description": "조금 힘들지만 유지 가능한 페이스로.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 10000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "full-w5-d4",
+            "title": "장거리 18km",
+            "description": "천천히, 꾸준히. 장거리는 속도보다 시간이 중요합니다.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 18000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 6,
+        "workouts": [
+          {
+            "id": "full-w6-d1",
+            "title": "편한 달리기 9km",
+            "description": "대화가 가능한 편한 페이스로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 9000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "full-w6-d2",
+            "title": "인터벌 3분 × 5",
+            "description": "빠르게 3분, 천천히 2분. 워밍업과 쿨다운 10분씩.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 180,
+                "recoverSec": 120,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "full-w6-d3",
+            "title": "템포 달리기 11km",
+            "description": "조금 힘들지만 유지 가능한 페이스로.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 11000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "full-w6-d4",
+            "title": "장거리 20km",
+            "description": "천천히, 꾸준히. 장거리는 속도보다 시간이 중요합니다.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 20000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 7,
+        "workouts": [
+          {
+            "id": "full-w7-d1",
+            "title": "편한 달리기 9km",
+            "description": "대화가 가능한 편한 페이스로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 9000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "full-w7-d2",
+            "title": "인터벌 3분 × 5",
+            "description": "빠르게 3분, 천천히 2분. 워밍업과 쿨다운 10분씩.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 180,
+                "recoverSec": 120,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "full-w7-d3",
+            "title": "템포 달리기 11km",
+            "description": "조금 힘들지만 유지 가능한 페이스로.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 11000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "full-w7-d4",
+            "title": "장거리 21km",
+            "description": "천천히, 꾸준히. 장거리는 속도보다 시간이 중요합니다.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 21000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 8,
+        "workouts": [
+          {
+            "id": "full-w8-d1",
+            "title": "편한 달리기 10km",
+            "description": "대화가 가능한 편한 페이스로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 10000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "full-w8-d2",
+            "title": "인터벌 3분 × 5",
+            "description": "빠르게 3분, 천천히 2분. 워밍업과 쿨다운 10분씩.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 180,
+                "recoverSec": 120,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "full-w8-d3",
+            "title": "템포 달리기 12km",
+            "description": "조금 힘들지만 유지 가능한 페이스로.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 12000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "full-w8-d4",
+            "title": "장거리 23km",
+            "description": "천천히, 꾸준히. 장거리는 속도보다 시간이 중요합니다.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 23000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 9,
+        "workouts": [
+          {
+            "id": "full-w9-d1",
+            "title": "편한 달리기 11km",
+            "description": "대화가 가능한 편한 페이스로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 11000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "full-w9-d2",
+            "title": "인터벌 3분 × 5",
+            "description": "빠르게 3분, 천천히 2분. 워밍업과 쿨다운 10분씩.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 180,
+                "recoverSec": 120,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "full-w9-d3",
+            "title": "템포 달리기 13km",
+            "description": "조금 힘들지만 유지 가능한 페이스로.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 13000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "full-w9-d4",
+            "title": "장거리 24km",
+            "description": "천천히, 꾸준히. 장거리는 속도보다 시간이 중요합니다.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 24000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 10,
+        "workouts": [
+          {
+            "id": "full-w10-d1",
+            "title": "편한 달리기 12km",
+            "description": "대화가 가능한 편한 페이스로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 12000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "full-w10-d2",
+            "title": "인터벌 3분 × 5",
+            "description": "빠르게 3분, 천천히 2분. 워밍업과 쿨다운 10분씩.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 180,
+                "recoverSec": 120,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "full-w10-d3",
+            "title": "템포 달리기 14km",
+            "description": "조금 힘들지만 유지 가능한 페이스로.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 14000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "full-w10-d4",
+            "title": "장거리 26km",
+            "description": "천천히, 꾸준히. 장거리는 속도보다 시간이 중요합니다.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 26000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 11,
+        "workouts": [
+          {
+            "id": "full-w11-d1",
+            "title": "편한 달리기 12km",
+            "description": "대화가 가능한 편한 페이스로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 12000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "full-w11-d2",
+            "title": "인터벌 3분 × 5",
+            "description": "빠르게 3분, 천천히 2분. 워밍업과 쿨다운 10분씩.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 180,
+                "recoverSec": 120,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "full-w11-d3",
+            "title": "템포 달리기 14km",
+            "description": "조금 힘들지만 유지 가능한 페이스로.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 14000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "full-w11-d4",
+            "title": "장거리 27km",
+            "description": "천천히, 꾸준히. 장거리는 속도보다 시간이 중요합니다.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 27000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 12,
+        "workouts": [
+          {
+            "id": "full-w12-d1",
+            "title": "편한 달리기 13km",
+            "description": "대화가 가능한 편한 페이스로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 13000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "full-w12-d2",
+            "title": "인터벌 3분 × 5",
+            "description": "빠르게 3분, 천천히 2분. 워밍업과 쿨다운 10분씩.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 180,
+                "recoverSec": 120,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "full-w12-d3",
+            "title": "템포 달리기 16km",
+            "description": "조금 힘들지만 유지 가능한 페이스로.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 16000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "full-w12-d4",
+            "title": "장거리 29km",
+            "description": "천천히, 꾸준히. 장거리는 속도보다 시간이 중요합니다.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 29000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 13,
+        "workouts": [
+          {
+            "id": "full-w13-d1",
+            "title": "편한 달리기 14km",
+            "description": "대화가 가능한 편한 페이스로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 14000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "full-w13-d2",
+            "title": "인터벌 3분 × 5",
+            "description": "빠르게 3분, 천천히 2분. 워밍업과 쿨다운 10분씩.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 180,
+                "recoverSec": 120,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "full-w13-d3",
+            "title": "템포 달리기 17km",
+            "description": "조금 힘들지만 유지 가능한 페이스로.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 17000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "full-w13-d4",
+            "title": "장거리 30km",
+            "description": "천천히, 꾸준히. 장거리는 속도보다 시간이 중요합니다.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 30000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 14,
+        "workouts": [
+          {
+            "id": "full-w14-d1",
+            "title": "편한 달리기 14km",
+            "description": "대화가 가능한 편한 페이스로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 14000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "full-w14-d2",
+            "title": "인터벌 3분 × 5",
+            "description": "빠르게 3분, 천천히 2분. 워밍업과 쿨다운 10분씩.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 180,
+                "recoverSec": 120,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "full-w14-d3",
+            "title": "템포 달리기 17km",
+            "description": "조금 힘들지만 유지 가능한 페이스로.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 17000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "full-w14-d4",
+            "title": "장거리 32km",
+            "description": "천천히, 꾸준히. 장거리는 속도보다 시간이 중요합니다.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 32000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 15,
+        "workouts": [
+          {
+            "id": "full-w15-d1",
+            "title": "편한 달리기 10km",
+            "description": "대화가 가능한 편한 페이스로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 10000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "full-w15-d2",
+            "title": "인터벌 3분 × 5",
+            "description": "빠르게 3분, 천천히 2분. 워밍업과 쿨다운 10분씩.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 180,
+                "recoverSec": 120,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "full-w15-d3",
+            "title": "템포 달리기 12km",
+            "description": "조금 힘들지만 유지 가능한 페이스로.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 12000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "full-w15-d4",
+            "title": "장거리 22km",
+            "description": "천천히, 꾸준히. 장거리는 속도보다 시간이 중요합니다.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 22000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 16,
+        "workouts": [
+          {
+            "id": "full-w16-d1",
+            "title": "편한 달리기 14km",
+            "description": "대화가 가능한 편한 페이스로 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 14000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "full-w16-d2",
+            "title": "인터벌 3분 × 5",
+            "description": "빠르게 3분, 천천히 2분. 워밍업과 쿨다운 10분씩.",
+            "activityType": "run",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 180,
+                "recoverSec": 120,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "full-w16-d3",
+            "title": "템포 달리기 17km",
+            "description": "조금 힘들지만 유지 가능한 페이스로.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 17000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "full-w16-d4",
+            "title": "풀코스 마라톤 레이스!",
+            "description": "그동안의 훈련을 믿고 달리세요.",
+            "activityType": "run",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 42200,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "walk-habit",
+    "title": "걷기 습관 만들기",
+    "activityType": "walk",
+    "icon": "🚶",
+    "level": "입문",
+    "description": "4주 동안 주 5회 걷기로 습관 만들기",
+    "weeks": [
+      {
+        "week": 1,
+        "workouts": [
+          {
+            "id": "walk4-w1-d1",
+            "title": "15분 걷기",
+            "description": "편한 신발을 신고 가볍게 걸어요.",
+            "activityType": "walk",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": null,
+                "durationSec": 900,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "walk4-w1-d2",
+            "title": "15분 걷기",
+            "description": "팔을 자연스럽게 흔들며 걸어보세요.",
+            "activityType": "walk",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": null,
+                "durationSec": 900,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "walk4-w1-d3",
+            "title": "20분 걷기",
+            "description": "조금 더 빠른 걸음으로!",
+            "activityType": "walk",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": null,
+                "durationSec": 1200,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "walk4-w1-d4",
+            "title": "15분 걷기",
+            "description": "주변 풍경을 즐기며 걸어요.",
+            "activityType": "walk",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": null,
+                "durationSec": 900,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "walk4-w1-d5",
+            "title": "2km 걷기",
+            "description": "이번 주 마무리 걷기.",
+            "activityType": "walk",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 2000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "workouts": [
+          {
+            "id": "walk4-w2-d1",
+            "title": "20분 걷기",
+            "description": "편한 신발을 신고 가볍게 걸어요.",
+            "activityType": "walk",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": null,
+                "durationSec": 1200,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "walk4-w2-d2",
+            "title": "20분 걷기",
+            "description": "팔을 자연스럽게 흔들며 걸어보세요.",
+            "activityType": "walk",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": null,
+                "durationSec": 1200,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "walk4-w2-d3",
+            "title": "25분 걷기",
+            "description": "조금 더 빠른 걸음으로!",
+            "activityType": "walk",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": null,
+                "durationSec": 1500,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "walk4-w2-d4",
+            "title": "20분 걷기",
+            "description": "주변 풍경을 즐기며 걸어요.",
+            "activityType": "walk",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": null,
+                "durationSec": 1200,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "walk4-w2-d5",
+            "title": "3km 걷기",
+            "description": "이번 주 마무리 걷기.",
+            "activityType": "walk",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 3000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "workouts": [
+          {
+            "id": "walk4-w3-d1",
+            "title": "25분 걷기",
+            "description": "편한 신발을 신고 가볍게 걸어요.",
+            "activityType": "walk",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": null,
+                "durationSec": 1500,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "walk4-w3-d2",
+            "title": "25분 걷기",
+            "description": "팔을 자연스럽게 흔들며 걸어보세요.",
+            "activityType": "walk",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": null,
+                "durationSec": 1500,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "walk4-w3-d3",
+            "title": "30분 걷기",
+            "description": "조금 더 빠른 걸음으로!",
+            "activityType": "walk",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": null,
+                "durationSec": 1800,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "walk4-w3-d4",
+            "title": "25분 걷기",
+            "description": "주변 풍경을 즐기며 걸어요.",
+            "activityType": "walk",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": null,
+                "durationSec": 1500,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "walk4-w3-d5",
+            "title": "4km 걷기",
+            "description": "이번 주 마무리 걷기.",
+            "activityType": "walk",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 4000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "workouts": [
+          {
+            "id": "walk4-w4-d1",
+            "title": "30분 걷기",
+            "description": "편한 신발을 신고 가볍게 걸어요.",
+            "activityType": "walk",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": null,
+                "durationSec": 1800,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "walk4-w4-d2",
+            "title": "30분 걷기",
+            "description": "팔을 자연스럽게 흔들며 걸어보세요.",
+            "activityType": "walk",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": null,
+                "durationSec": 1800,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "walk4-w4-d3",
+            "title": "35분 걷기",
+            "description": "조금 더 빠른 걸음으로!",
+            "activityType": "walk",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": null,
+                "durationSec": 2100,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "walk4-w4-d4",
+            "title": "30분 걷기",
+            "description": "주변 풍경을 즐기며 걸어요.",
+            "activityType": "walk",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": null,
+                "durationSec": 1800,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "walk4-w4-d5",
+            "title": "5km 걷기",
+            "description": "이번 주 마무리 걷기.",
+            "activityType": "walk",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 5000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ride-50k",
+    "title": "첫 50km 도전",
+    "activityType": "ride",
+    "icon": "🚴",
+    "level": "초급",
+    "description": "8주 동안 주 3회, 50km 라이딩 완주",
+    "weeks": [
+      {
+        "week": 1,
+        "workouts": [
+          {
+            "id": "ride50-w1-d1",
+            "title": "30분 가볍게 타기",
+            "description": "케이던스 80~90rpm을 유지해 보세요.",
+            "activityType": "ride",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": null,
+                "durationSec": 1800,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "ride50-w1-d2",
+            "title": "언덕/인터벌 2분 × 5",
+            "description": "2분 힘차게, 3분 회복.",
+            "activityType": "ride",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 120,
+                "recoverSec": 180,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "ride50-w1-d3",
+            "title": "장거리 10km",
+            "description": "주말 장거리 라이딩. 물과 간식을 챙기세요.",
+            "activityType": "ride",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 10000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "workouts": [
+          {
+            "id": "ride50-w2-d1",
+            "title": "35분 가볍게 타기",
+            "description": "케이던스 80~90rpm을 유지해 보세요.",
+            "activityType": "ride",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": null,
+                "durationSec": 2100,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "ride50-w2-d2",
+            "title": "언덕/인터벌 2분 × 5",
+            "description": "2분 힘차게, 3분 회복.",
+            "activityType": "ride",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 120,
+                "recoverSec": 180,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "ride50-w2-d3",
+            "title": "장거리 15km",
+            "description": "주말 장거리 라이딩. 물과 간식을 챙기세요.",
+            "activityType": "ride",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 15000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "workouts": [
+          {
+            "id": "ride50-w3-d1",
+            "title": "40분 가볍게 타기",
+            "description": "케이던스 80~90rpm을 유지해 보세요.",
+            "activityType": "ride",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": null,
+                "durationSec": 2400,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "ride50-w3-d2",
+            "title": "언덕/인터벌 2분 × 5",
+            "description": "2분 힘차게, 3분 회복.",
+            "activityType": "ride",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 120,
+                "recoverSec": 180,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "ride50-w3-d3",
+            "title": "장거리 20km",
+            "description": "주말 장거리 라이딩. 물과 간식을 챙기세요.",
+            "activityType": "ride",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 20000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "workouts": [
+          {
+            "id": "ride50-w4-d1",
+            "title": "45분 가볍게 타기",
+            "description": "케이던스 80~90rpm을 유지해 보세요.",
+            "activityType": "ride",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": null,
+                "durationSec": 2700,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "ride50-w4-d2",
+            "title": "언덕/인터벌 2분 × 5",
+            "description": "2분 힘차게, 3분 회복.",
+            "activityType": "ride",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 120,
+                "recoverSec": 180,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "ride50-w4-d3",
+            "title": "장거리 25km",
+            "description": "주말 장거리 라이딩. 물과 간식을 챙기세요.",
+            "activityType": "ride",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 25000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 5,
+        "workouts": [
+          {
+            "id": "ride50-w5-d1",
+            "title": "50분 가볍게 타기",
+            "description": "케이던스 80~90rpm을 유지해 보세요.",
+            "activityType": "ride",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": null,
+                "durationSec": 3000,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "ride50-w5-d2",
+            "title": "언덕/인터벌 2분 × 5",
+            "description": "2분 힘차게, 3분 회복.",
+            "activityType": "ride",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 120,
+                "recoverSec": 180,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "ride50-w5-d3",
+            "title": "장거리 30km",
+            "description": "주말 장거리 라이딩. 물과 간식을 챙기세요.",
+            "activityType": "ride",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 30000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 6,
+        "workouts": [
+          {
+            "id": "ride50-w6-d1",
+            "title": "55분 가볍게 타기",
+            "description": "케이던스 80~90rpm을 유지해 보세요.",
+            "activityType": "ride",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": null,
+                "durationSec": 3300,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "ride50-w6-d2",
+            "title": "언덕/인터벌 2분 × 5",
+            "description": "2분 힘차게, 3분 회복.",
+            "activityType": "ride",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 120,
+                "recoverSec": 180,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "ride50-w6-d3",
+            "title": "장거리 35km",
+            "description": "주말 장거리 라이딩. 물과 간식을 챙기세요.",
+            "activityType": "ride",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 35000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 7,
+        "workouts": [
+          {
+            "id": "ride50-w7-d1",
+            "title": "60분 가볍게 타기",
+            "description": "케이던스 80~90rpm을 유지해 보세요.",
+            "activityType": "ride",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": null,
+                "durationSec": 3600,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "ride50-w7-d2",
+            "title": "언덕/인터벌 2분 × 5",
+            "description": "2분 힘차게, 3분 회복.",
+            "activityType": "ride",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 120,
+                "recoverSec": 180,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "ride50-w7-d3",
+            "title": "장거리 40km",
+            "description": "주말 장거리 라이딩. 물과 간식을 챙기세요.",
+            "activityType": "ride",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 40000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "week": 8,
+        "workouts": [
+          {
+            "id": "ride50-w8-d1",
+            "title": "65분 가볍게 타기",
+            "description": "케이던스 80~90rpm을 유지해 보세요.",
+            "activityType": "ride",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": null,
+                "durationSec": 3900,
+                "speedMps": null
+              }
+            }
+          },
+          {
+            "id": "ride50-w8-d2",
+            "title": "언덕/인터벌 2분 × 5",
+            "description": "2분 힘차게, 3분 회복.",
+            "activityType": "ride",
+            "workout": {
+              "kind": "interval",
+              "interval": {
+                "warmupSec": 600,
+                "workSec": 120,
+                "recoverSec": 180,
+                "repeats": 5,
+                "cooldownSec": 600
+              }
+            }
+          },
+          {
+            "id": "ride50-w8-d3",
+            "title": "50km 도전!",
+            "description": "드디어 50km! 보급을 챙기세요.",
+            "activityType": "ride",
+            "workout": {
+              "kind": "target",
+              "target": {
+                "distanceM": 50000,
+                "durationSec": null,
+                "speedMps": null
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
